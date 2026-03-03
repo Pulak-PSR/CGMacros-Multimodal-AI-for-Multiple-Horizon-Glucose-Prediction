@@ -1,1 +1,0 @@
-This Python implementation provides a complete pipeline for predicting post-meal glucose responses using the CGMacros dataset. It integrates multimodal health data to forecast glucose delta spikes across multiple horizons (1, 3, and 6 hours).
